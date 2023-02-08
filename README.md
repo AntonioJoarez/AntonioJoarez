@@ -1,4 +1,4 @@
-## Olá, eu sou o Antônio.
+## Hello, I am Antonio.
 
 Esssas são as tecnologias que estou utilizando/estudando no momento.
 
